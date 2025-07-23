@@ -59,13 +59,19 @@ The script introduces a variety of helpful commands, neatly categorized for easy
 
 2.  **Copy to your home directory**:
     Copy the downloaded file to your user's home directory and rename it to `.mongoshrc.js`. The leading dot (`.`) makes it a hidden file, which is the standard naming convention for shell configuration files.
-
+    For Linux/MacOS:
     ```bash
     cp mongoshrc.js ~/.mongoshrc.js
     ```
-    *Note: If you already have a `.mongoshrc.js` file, consider merging its content or backing it up before replacing it.*
+    
 
-3.  **Automatic Loading**:
+    For Windows:
+    Configuration file at:
+     ```bash
+     %USERPROFILE%\.mongoshrc.js.
+     ```
+    *Note: If you already have a `.mongoshrc.js` file, consider merging its content or backing it up before replacing it.*
+4.  **Automatic Loading**:
     The script will be automatically loaded and executed every time you open a new `mongosh` session.
 
 ## 💡 Usage
