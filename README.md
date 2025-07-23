@@ -68,7 +68,6 @@ The script introduces a variety of helpful commands, neatly categorized for easy
     
 
     For Windows:
-    Configuration file at:
      ```bash
      %USERPROFILE%\.mongoshrc.js.
      ```
