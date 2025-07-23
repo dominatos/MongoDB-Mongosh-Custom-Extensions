@@ -69,7 +69,7 @@ The script introduces a variety of helpful commands, neatly categorized for easy
 
     For Windows:
      ```bash
-     %USERPROFILE%\.mongoshrc.js.
+     %USERPROFILE%\.mongoshrc.js
      ```
     *Note: If you already have a `.mongoshrc.js` file, consider merging its content or backing it up before replacing it.*
 4.  **Automatic Loading**:
