@@ -59,6 +59,8 @@ The script introduces a variety of helpful commands, neatly categorized for easy
 
 2.  **Copy to your home directory**:
     Copy the downloaded file to your user's home directory and rename it to `.mongoshrc.js`. The leading dot (`.`) makes it a hidden file, which is the standard naming convention for shell configuration files.
+
+
     For Linux/MacOS:
     ```bash
     cp mongoshrc.js ~/.mongoshrc.js
