@@ -96,6 +96,6 @@ Once installed, simply open your `mongosh` terminal and type the command you wis
 
 ## 📜 License
 
-[Optionally, add your chosen license here, e.g., MIT License]
+[MIT License]
 
 ---
